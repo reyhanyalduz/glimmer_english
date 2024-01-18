@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "102621104041",
+    "project_id": "fir-ilkdeneme-01",
+    "storage_bucket": "fir-ilkdeneme-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102621104041:android:f5af3ade83799732dea6b8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ilk_deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1aRXREvcoUpmAN8pd0GPTrZDVd1S_PIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102621104041:android:30c3484468810344dea6b8",
+        "android_client_info": {
+          "package_name": "com.example.kelime_kartlari02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1aRXREvcoUpmAN8pd0GPTrZDVd1S_PIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102621104041:android:5fe2395c5167a8eedea6b8",
+        "android_client_info": {
+          "package_name": "com.example.kelimekartlari01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1aRXREvcoUpmAN8pd0GPTrZDVd1S_PIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
