@@ -3,9 +3,8 @@
 Glimmer English kelime kartları uygulaması seviyenize göre günlük hayatta kullanılan ingilizce kelimeleri öğrenmenize yardımcı olur. Kelime kartları eşleştirme ve yazı alıştırmaları ile interaktif eğlenceli bir deneyim sunar.
 
 ## Kurulum
-Projeyi klonlayın: git clone https://github.com/reyhanyalduz/glimmer_english.git
-Bağımlılıkları yükleyin: `flutter pub get`
-Firebase projenizi oluşturun ve uygulamayı Firebase'e bağlayın.
+Projeyi klonlayın: `git clone https://github.com/reyhanyalduz/glimmer_english.git`
+
 Uygulamayı çalıştırın: `flutter run`
 
 ## Kullanım
